@@ -5,7 +5,7 @@
     "type": "@type",
     "schema": "https://schema.org/",
     "DrivingLicenseCredential": {
-      "@id": "https://mosip.github.io/inji-config/contexts/driving-license-context.json#DrivingLicenseCredential"
+      "@id": "https://marshmelloweranda.github.io/inji-config/contexts/driving-license-context.json#DrivingLicenseCredential"
     },
     "sub": "schema:identifier",
     "application_id": "schema:identifier",
