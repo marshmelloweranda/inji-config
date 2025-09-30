@@ -7,18 +7,16 @@
     "DrivingLicenseCredential": {
       "@id": "https://marshmelloweranda.github.io/inji-config/contexts/driving-license-context.json#DrivingLicenseCredential"
     },
-    "id":  "schema:identifier",
+    "id": "schema:identifier",
     "sub": "schema:identifier",
     "application_id": "schema:identifier",
     "medical_certificate_id": "schema:identifier",
-
     "full_name": "schema:name",
     "email": "schema:email",
     "phone": "schema:telephone",
     "date_of_birth": "schema:birthDate",
     "gender": "schema:gender",
     "blood_group": "schema:Text",
-
     "doctor_name": "schema:name",
     "hospital": "schema:name",
     "issued_date": "schema:dateIssued",
@@ -28,16 +26,13 @@
     "hearing": "schema:Text",
     "remarks": "schema:Text",
     "photo_url": "schema:url",
-
     "written_test": "schema:Text",
     "practical_test": "schema:Text",
-
     "selected_categories": "schema:Text",
     "total_amount": "schema:MonetaryAmount",
     "payment_reference_id": "schema:identifier",
     "payment_transaction_id": "schema:identifier",
     "status": "schema:Text",
-
     "created_at": "schema:DateTime",
     "updated_at": "schema:DateTime"
   }
