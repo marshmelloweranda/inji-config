@@ -6,7 +6,7 @@
     "schema": "https://schema.org/",
     
     "DrivingLicenseCredential": {
-      "@id": "https://marshmelloweranda.github.io/inji-config/contexts/driving-license-context.json#DrivingLicenseCredential"
+      "@id": "https://marshmelloweranda.github.io/inji-config/contexts/driving-license-context.json#PassportApplicationCredential"
     },
     
     "sub_id": "schema:identifier",
