@@ -32,12 +32,12 @@
     "photo_url": "schema:image",         
     
     "written_test": "schema:written_test",
-    "practical_test": "schema:practical_test"
+    "practical_test": "schema:practical_test",
     
-    "selected_categories":  "schema:selected_categories"
+    "selected_categories":  "schema:selected_categories",
     "total_amount": "schema:totalPrice",
-    "payment_reference_id": "schema:identifier",
-    "payment_transaction_id": "schema:identifier",
+    "payment_reference_id": "schema:payment_reference_id",
+    "payment_transaction_id": "schema:payment_transaction_id",
     "status": "schema:applicationStatus", 
     
     "created_at": "schema:dateCreated",  
